@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Claire(Yuqian) Huo 霍玉倩
+title: Claire(Yuqian) Huo
 
 # Name pronunciation (optional)
-name_pronunciation: Hwaw Yü Chien
+name_pronunciation: 霍玉倩
 
 # Full name (for SEO)
-first_name: Yuqian
+first_name: Claire(Yuqian)
 last_name: Huo
 
 # Status emoji
 status:
-  icon: 🎆
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,13 +25,13 @@ organizations:
     url: https://www.rice.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in Quantum Computing and Security.
+bio: My research interests in Quantum Computing and Security.
 
 # Interests to show in About widget
 interests:
   - Quantum Computing
   - Quantum Security
-  - High Performance Computing
+  - High-Performance Computing
 
 # Education to show in About widget
 education:
@@ -87,30 +87,30 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'ch107@rice.edu'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com.au/citations?user=nzTuA2gAAAAJ&hl=en&oi=ao
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yuqian-claire-huo-958983113/
+    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
