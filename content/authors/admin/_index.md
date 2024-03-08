@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:ch107@rice.edu'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com.au/citations?user=nzTuA2gAAAAJ&hl=en&oi=ao
@@ -111,8 +111,8 @@ social:
 highlight_name: true
 ---
 
-Hey y'all, my name is Yuqian(Claire) Huo 霍玉倩. I'm a second-year Ph.D. student in Computer Science at [Rice University](www.rice.edu), advised by Prof. [Tirthak Patel](https://www.tirthakpatel.com/) at [PTL](https://www.positivetechnologylab.com/). My research interest includes Quantum Computing and Security.
+Hey y'all, my name is Claire(Yuqian) Huo 霍玉倩. I'm a second-year Ph.D. student in Computer Science at [Rice University](www.rice.edu), advised by Prof. [Tirthak Patel](https://www.tirthakpatel.com/) at [PTL](https://www.positivetechnologylab.com/). My Research focuses on Quantum Computing and Security.
 
-Before joining Rice, I had my Master's Degree in Computer Science from [Washington University in St. Louis](www.wustl.edu) in Dec 2021. I was very fortunate to be advised by Prof. [Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) at [CSPL](https://cybersecurity.seas.wustl.edu/) working on Control-Flow Integrity in Cyber-Physical Systems.
+Before joining Rice, I earned my Master's Degree in Computer Science from [Washington University in St. Louis](www.wustl.edu) in Dec 2021. I was very fortunate to be advised by Prof. [Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html) at [CSPL](https://cybersecurity.seas.wustl.edu/) working on Control-Flow Integrity on Real-time Cyber-Physical Systems.
 
 {style="text-align: justify;"}
