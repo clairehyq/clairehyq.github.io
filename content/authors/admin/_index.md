@@ -31,7 +31,7 @@ bio: My research interests in Quantum Computing and Security.
 interests:
   - Quantum Computing
   - Security
-  - High Performance Computing
+  - High-Performance Computing
 
 # Education to show in About widget
 education:
