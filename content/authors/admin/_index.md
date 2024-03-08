@@ -3,7 +3,7 @@
 title: 霍玉倩
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hwo Yü Chien
 
 # Full name (for SEO)
 first_name: Shiung Wu
