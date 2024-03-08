@@ -117,5 +117,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi y'all, I'm a second year Ph.D. student in Computer Science at Rice University, advised by Prof. Tirthak Patel. My research interest includes Quantum Computing and Security.
+
+Before joining Rice, I had my Master's Degree in Computer Science from Washington University in St. Louis in Dec 2021. I was very fortunate to be advised by Prof. Ning Zhang at CSPL working on Control-Flow Integrity in Cyber-Physical Systems.
+
 {style="text-align: justify;"}
