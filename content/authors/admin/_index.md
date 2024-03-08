@@ -3,7 +3,7 @@
 title: Claire Huo
 
 # Name pronunciation (optional)
-name_pronunciation: Hwo Yü Chien
+name_pronunciation: 霍玉倩
 
 # Full name (for SEO)
 first_name: Claire(Yuqian)
