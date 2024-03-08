@@ -111,7 +111,7 @@ social:
 highlight_name: true
 ---
 
-Hi y'all, I'm a second year Ph.D. student in Computer Science at Rice University, advised by Prof. Tirthak Patel. My research interest includes Quantum Computing and Security.
+Hi y'all, I'm a second year Ph.D. student in Computer Science at Rice University, advised by Prof. [Tirthak Patel](https://www.tirthakpatel.com/). My research interest includes Quantum Computing and Security.
 
 Before joining Rice, I had my Master's Degree in Computer Science from Washington University in St. Louis in Dec 2021. I was very fortunate to be advised by Prof. Ning Zhang at CSPL working on Control-Flow Integrity in Cyber-Physical Systems.
 
